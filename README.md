@@ -16,7 +16,7 @@
                 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
                     <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
                         <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
-                          <img src="https://skillicons.dev/icons?i=perl" /><br>
+                          <img src="https://skillicons.dev/icons?i=pug" /><br>
 
 
 
