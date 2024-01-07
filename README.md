@@ -1,4 +1,4 @@
-## About <br>
+## About Me<br>
 ### - 👋 Hi, I’m Ihab Elrayah 
 ### - 👀 I’m currently a computer science major at SNHU 
 ### - 🌱 I’m currently learning about Project Management! 
@@ -48,7 +48,7 @@
   <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pug" />
     
-</a><br>
+</a>
 
   </a>
 </p>
