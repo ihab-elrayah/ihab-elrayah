@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br><br>
-           <img src="https://skillicons.dev/icons?i=js,html,css" /><br><br>
-                <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br><br>
-                    <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br><br>
+       <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
+           <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
+                <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
+                    <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
                         <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
