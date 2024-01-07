@@ -37,14 +37,14 @@
   <a href="https://skillicons.dev">  
 
   <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" 
    
  ### Github:  
  
    <a href="https://skillicons.dev">  
    
    <a href="github.com/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" /> 
+    <img src="https://skillicons.dev/icons?i=github" 
 
 ### Portfolio Website: 
   
