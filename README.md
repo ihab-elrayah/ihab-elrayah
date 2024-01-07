@@ -35,12 +35,12 @@
 
 <p align="left">
   <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> <p3>LinkedIn<p3>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> <text>LinkedIn<text>
   </a> 
   <a href="https://github.com/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"><p>GitHub<p>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"><text>GitHub<text>
   </a> 
   <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878" width="50 alt="Portfolio"><p>Portfolio<p>
+    <img src="https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878" width="50 alt="Portfolio"><text>Portfolio<text>
   </a>
 </p>
