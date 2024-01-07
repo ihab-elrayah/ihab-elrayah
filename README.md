@@ -45,4 +45,4 @@
   </a>
 </p>
      
-![Ihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihab-elrayah&theme=dark&show_icons=true)
+![Ihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
