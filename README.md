@@ -35,7 +35,7 @@
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
-# Socials 📩:  <br>
+# Socials 📲  <br>
 
   <a href="https://skillicons.dev">  
 
