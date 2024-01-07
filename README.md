@@ -27,10 +27,10 @@
 ### Developer Tools:  
 
   <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br><br><br>
+          <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true)
 
 # Socials 📲  <br>
 
