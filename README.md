@@ -30,7 +30,7 @@
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
-  ![Anurag's GitHub RepoCard](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  ![Anurag's GitHub Card](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 # Socials 📲  <br>
