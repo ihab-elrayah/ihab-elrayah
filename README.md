@@ -11,6 +11,10 @@
 
   <a href="https://skillicons.dev">  
        <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
+
+### Skills  
+
+  <a href="https://skillicons.dev">  
            <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
                 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
                     <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
