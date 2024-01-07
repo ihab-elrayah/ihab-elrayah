@@ -43,16 +43,6 @@
    <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878" width="50" alt="gitluffy" />
 </a>
-
-
-[![gitluffy](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878)](https://ihab-personal-portfolio.netlify.app/)
-
-
-
-       
- 
- 
-  </a>
 </p>
 
 
