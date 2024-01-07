@@ -29,8 +29,9 @@
  <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
     <img src="![image](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/3ebdbbfb-b3b9-4bb6-a826-18de88734c69)" width="32" height="32" />
 </a>
-                          <img src="https://skillicons.dev/icons?i=pug" /><br>
-
+                         <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="[![image](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/3ebdbbfb-b3b9-4bb6-a826-18de88734c69)](https://skillicons.dev/icons?i=pu)" width="32" height="32" />
+</a>  
 
 
 
