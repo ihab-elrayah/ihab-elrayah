@@ -14,11 +14,6 @@
   <a href="https://skillicons.dev">  
          <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /><br>
 
-### Frameworks & Libraries:  
-
-  <a href="https://skillicons.dev">  
-           <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
-
  ### Frameworks & Libraries:  
  
   <a href="https://skillicons.dev">  
