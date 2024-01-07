@@ -9,10 +9,8 @@
 
 ### Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,c,html,css,<br>,react,nextjs,nodejs,express,flask,spring,typescript,firebase,postgres,mysql,mongodb,<br>,git,aws,gcp,linux)](https://skillicons.dev)
-
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">### Skills  
        <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
            <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
                 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
