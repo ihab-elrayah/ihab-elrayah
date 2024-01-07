@@ -9,16 +9,30 @@
 
 ### Skills  
 
-  <a href="https://skillicons.dev">  
-       <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
+## Programming Languages:  
 
-### Skills  
+  <a href="https://skillicons.dev">  
+         <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" /><br>
+
+## Frameworks & Libraries:  
 
   <a href="https://skillicons.dev">  
            <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
-                <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
-                    <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
-                        <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
+
+ ## Frameworks & Libraries:  
+ 
+  <a href="https://skillicons.dev">  
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
+          
+## Databases:  
+
+   <a href="https://skillicons.dev">  
+          <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
+          
+## Developer Tools:  
+
+  <a href="https://skillicons.dev">  
+          <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
 
