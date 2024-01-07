@@ -30,7 +30,9 @@
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br><br>
 
 
-![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true" />
+</p>
 
 
 
