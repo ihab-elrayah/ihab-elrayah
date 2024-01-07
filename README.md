@@ -13,6 +13,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,c,html,css,<br>,react,nextjs,nodejs,express,flask,spring,typescript,firebase,postgres,mysql,mongodb,<br>,git,aws,gcp,linux)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+
+  </a>
+</p>
  
 ### Socials  
 <p align="left"> <a href="https://www.github.com/ihab-elrayah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
