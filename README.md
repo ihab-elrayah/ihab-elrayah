@@ -34,25 +34,7 @@
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
-### Developer Tools:  
 
-  <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=linkedin,github,pug" /><br>
-
-  <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    
-  <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" />
-    
-  <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pug" />
-    
-</a><br>
-
-
-  </a>
-</p>
 
  
 ## Socials  <br>
@@ -64,7 +46,22 @@
 </a>
                
 
+## Socials:  <br>
 
+  <a href="https://skillicons.dev">  
 
+  <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    
+  <a href="github.com/ihab-elrayah" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" />
+    
+  <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pug" />
+    
+</a><br>
+
+  </a>
+</p>
 
 
