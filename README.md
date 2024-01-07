@@ -10,7 +10,7 @@
 
 # Skills ⚙️: <br>
 
-<h5 align="center">
+<h5 align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true" />
 </h5>
 
