@@ -1,4 +1,4 @@
-# About Me<br>
+# About Me 👨🏽‍💻:<br>
 ### - 👋 Hi, I’m Ihab Elrayah 
 ### - 👀 I’m currently a computer science major at SNHU 
 ### - 🌱 I’m currently learning about Project Management! 
@@ -8,7 +8,7 @@
 
 
 
-# Skills <br>
+# Skills ⚙️: <br>
 ### Programming Languages:  
 
   <a href="https://skillicons.dev">  
@@ -35,7 +35,7 @@
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
-# Socials:  <br>
+# Socials 📩:  <br>
 
   <a href="https://skillicons.dev">  
 
