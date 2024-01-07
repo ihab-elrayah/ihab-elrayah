@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m Ihab Elrayah 
 ### - 👀 I’m currently a computer science major at SNHU 
-### - 🌱 I’m currently learning about Project Management!
+### - 🌱 I’m currently learning about Project Management! 
 ### - 👥 I’m looking to collaborate on projects and share experiences! 
 ### - 💬 Message me with any questions or connections
 ### - 📫 Email: ihab.elrayah6@gmail.com
