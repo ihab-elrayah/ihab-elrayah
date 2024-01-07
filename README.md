@@ -39,7 +39,9 @@
     
   <a href="github.com/ihab-elrayah" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" />
-<a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">🧑🏽‍🦱</a>
+<a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <span style="font-size: 40px;">🧑🏽‍🦱</span>
+</a>
 
     
 </a>
