@@ -37,7 +37,7 @@
 ### Developer Tools:  
 
   <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=linken,github,pug" /><br>
+          <img src="https://skillicons.dev/icons?i=linkedin,github,pug" /><br>
 
   </a>
 </p>
