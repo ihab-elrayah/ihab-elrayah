@@ -19,6 +19,8 @@
     <img src="![image](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/3ebdbbfb-b3b9-4bb6-a826-18de88734c69)" width="32" height="32" />
 </a>
 
-<p align="left"> <a href="https://www.github.com/ihab-elrayah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" 
+<p align="left"> <a href="https://ihab-personal-portfolio.netlify.app/" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
+
+</a> <a href="https://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" 
 
 
