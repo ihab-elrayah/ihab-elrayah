@@ -7,10 +7,8 @@
 
 
 
-<p align="center">
 ### Skills  
 
-<p align="center">
   <a href="https://skillicons.dev">  
        <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
            <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
