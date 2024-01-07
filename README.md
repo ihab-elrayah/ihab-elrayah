@@ -47,6 +47,9 @@
     
   <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pug" />
+
+   <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="🧑🏽‍🦱" />
     
 </a>
 
