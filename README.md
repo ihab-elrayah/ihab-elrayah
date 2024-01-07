@@ -7,29 +7,29 @@
 
 
 
-### Skills  
+## Skills  
 
-## Programming Languages:  
+### Programming Languages:  
 
   <a href="https://skillicons.dev">  
          <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" /><br>
 
-## Frameworks & Libraries:  
+### Frameworks & Libraries:  
 
   <a href="https://skillicons.dev">  
            <img src="https://skillicons.dev/icons?i=js,html,css" /><br>
 
- ## Frameworks & Libraries:  
+ ### Frameworks & Libraries:  
  
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
           
-## Databases:  
+### Databases:  
 
    <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
           
-## Developer Tools:  
+### Developer Tools:  
 
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
