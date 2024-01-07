@@ -30,14 +30,9 @@
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true)
+![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ihab-elrayah" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihab-elrayah&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 # Socials 📲  <br>
 
