@@ -8,11 +8,11 @@
 
 
 
-# Skills ⚙️: <p>
+# Skills ⚙️: <br>
 
-<p align="center">
+<h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true" />
-
+</h1>
 ### Programming Languages:  
  
   <a href="https://skillicons.dev">  
@@ -31,7 +31,7 @@
 ### Developer Tools:  
 
   <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br><br>
+          <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
 
 # Socials 📲  <br>
