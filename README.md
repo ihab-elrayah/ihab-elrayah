@@ -15,9 +15,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /><br>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,kubernetes,docker,c,vim,kubernetes,docker,c,vim" /><br>
-           <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /><br>
+       <img src="https://skillicons.dev/icons?i=python,java,cpp,js,c,html,css" /><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
+          <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb" /><br>
+            <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
+
 
 
   </a>
