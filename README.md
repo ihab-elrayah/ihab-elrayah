@@ -41,6 +41,10 @@
     <img src="https://skillicons.dev/icons?i=github" />
 <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank">
   <span width="40" height="40">🧑🏽‍🦱</span>
+      <img src=🧑🏽‍🦱" width="40" height="40" />
+      <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">🧑🏽‍🦱</a>
+
+
 </a>
 
 </a>
