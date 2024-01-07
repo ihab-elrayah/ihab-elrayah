@@ -44,3 +44,5 @@
     <img src="https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878" width="50 alt="Portfolio"><text>Portfolio<text>
   </a>
 </p>
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
