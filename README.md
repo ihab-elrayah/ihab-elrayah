@@ -43,6 +43,9 @@
   <span width="40" height="40">🧑🏽‍🦱</span>
       <img src=🧑🏽‍🦱" width="40" height="40" />
       <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">🧑🏽‍🦱</a>
+<a href="https://ihab-personal-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <h1>🧑🏽‍🦱</h1>
+</a>
 
 
 </a>
