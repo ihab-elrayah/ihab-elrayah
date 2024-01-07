@@ -10,9 +10,9 @@
 
 # Skills ⚙️: <br>
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihab-elrayah&hide_progress=true" />
-</h1>
+</h2>
 
 ### Programming Languages:  
  
