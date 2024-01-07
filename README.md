@@ -12,7 +12,7 @@
 ### Programming Languages:  
 
   <a href="https://skillicons.dev">  
-         <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" /><br>
+         <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /><br>
 
 ### Frameworks & Libraries:  
 
@@ -34,10 +34,14 @@
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=git,aws,gcp,linux" /><br>
 
+### Developer Tools:  
 
+  <a href="https://skillicons.dev">  
+          <img src="https://skillicons.dev/icons?i=linken,github,pug" /><br>
 
   </a>
 </p>
+
  
 ## Socials  <br>
 <p align="left"> <a href="https://www.github.com/ihab-elrayah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
