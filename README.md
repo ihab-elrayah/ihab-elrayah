@@ -40,9 +40,10 @@
   <a href="github.com/ihab-elrayah" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" /> 
     
-
+<a href="https://ihab-personal-portfolio.netlify.app/" target="_blank">
+    <img src="![gitluffy](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878)" width="40" height="40" />
   <a href="https://ihab-personal-portfolio.netlify.app/" target="_blank">
-    <img src="https://github.com/ihab-elrayah/ihab-elrayah/raw/main/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878.png" width="40" height="40" alt="gitluffy" />
+    <img src="![gitluffy](https://github.com/ihab-elrayah/ihab-elrayah/assets/127975319/fff7bd7c-ea2b-476e-aadc-0ac3f9d59878)" width="40" height="40" alt="gitluffy" />
 </a>
 
 
