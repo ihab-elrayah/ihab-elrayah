@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="http://www.linkedin.com/in/ihab-elrayah" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> <p>LinkedIn<p>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"> <p3>LinkedIn<p3>
   </a> 
   <a href="https://github.com/ihab-elrayah" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"><p>GitHub<p>
