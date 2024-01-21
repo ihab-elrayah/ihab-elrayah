@@ -1,5 +1,5 @@
 # About Me 👨🏽‍💻:<br>              
-### - 👋 Hi, I’m Ihab Elrayah                          
+### - 👋 Hi, I’m Ihab Elrayah                           
 ### - 👀 I’m a computer science major                                  
 ### - 🌱 I’m currently learning about Project Management                      
 ### - 👥 I’m looking to collaborate on projects and share experiences!  
