@@ -32,7 +32,7 @@
 ### Developer Tools:  
 
   <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=git,aws,gcp,figma,androidstudio,matlab,linux,kubernetes,apachespark" /><br>
+          <img src="https://skillicons.dev/icons?i=git,aws,gcp,figma,androidstudio,matlab,linux,kubernetes,spark" /><br>
 
 
 # Socials 📲  <br>
