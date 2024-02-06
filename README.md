@@ -19,10 +19,14 @@
   <a href="https://skillicons.dev">  
          <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /><br>
 
- ### Frameworks & Libraries:  
+ ### Frameworks:  
  
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
+    
+ ### Libraries:  
+ <a href="https://skillicons.dev">  
+          <img src="https://skillicons.dev/icons?i=react,NumPy" /><br>
           
 ### Databases:  
 
@@ -32,7 +36,7 @@
 ### Developer Tools:  
 
   <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=git,aws,gcp,figma,androidstudio,matlab,linux,kubernetes,spark" /><br>
+          <img src="https://skillicons.dev/icons?i=git,aws,gcp,figma,androidstudio,matlab,linux,kubernetes" /><br>
 
 
 # Socials 📲  <br>
