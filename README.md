@@ -26,7 +26,7 @@
     
  ### Libraries:  
  <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=react,numpy" /><br>
+          <img src="https://skillicons.dev/icons?i=react,num" /><br>
           
 ### Databases:  
 
