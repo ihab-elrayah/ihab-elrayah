@@ -19,14 +19,10 @@
   <a href="https://skillicons.dev">  
          <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" /><br>
 
- ### Frameworks:  
+ ### Frameworks & Libraries:  
  
   <a href="https://skillicons.dev">  
           <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,spring,typescript" /><br>
-    
- ### Libraries:  
- <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=react,panda" /><br>
           
 ### Databases:  
 
