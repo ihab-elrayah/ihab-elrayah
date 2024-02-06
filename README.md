@@ -26,7 +26,7 @@
     
  ### Libraries:  
  <a href="https://skillicons.dev">  
-          <img src="https://skillicons.dev/icons?i=react,Scipy" /><br>
+          <img src="https://skillicons.dev/icons?i=react,SciPy" /><br>
           
 ### Databases:  
 
