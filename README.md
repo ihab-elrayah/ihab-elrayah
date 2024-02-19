@@ -1,9 +1,9 @@
 # About Me 👨🏽‍💻: <br>           
 ### - 👋 Hi, I’m Ihab Elrayah                             
 ### - 👀 I’m a computer science major                                  
-### - 🌱 I’m currently learning about Project Management                      
+### - 🌱 I’m currently learning about the depths of AI & ML                      
 ### - 👥 I’m looking to collaborate on projects and share experiences!  
-### - 💬 Message me with any questions or connections      
+### - 💬 Message me with any questions or to connection     
 ### - 📫 Email: ihab.elrayah6@gmail.com <br>  
   
     
